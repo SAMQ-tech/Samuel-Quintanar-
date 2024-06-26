@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: b37c4e464e421754bb88402b262dd65e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alien 2 caminando hacia la derecha_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 6386
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5264939305f6a334a9179efeb90a0a8a
+      internalID: -747800288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alien 2 caminando hacia la derecha_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 6413
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6fd8845a4551c44bdd1a0384897245
+      internalID: 1995372510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alien 2 caminando hacia la derecha_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 4536
+        width: 1533
+        height: 5234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36419819db0be6b4297c4bf0d1fe711c
+      internalID: -1473750275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alien 2 caminando hacia la derecha_3
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 4563
+        width: 1644
+        height: 5118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f75063c3bb05a468a0818b355c1fa2
+      internalID: -926878145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alien 2 caminando hacia la derecha_4
+      rect:
+        serializedVersion: 2
+        x: 3494
+        y: 4563
+        width: 2001
+        height: 5207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18daa8a279c0a9e429c5bf245c7d856c
+      internalID: -1527007867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alien 2 caminando hacia la derecha_5
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 4510
+        width: 2160
+        height: 5178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7743c35665c74a848abe8bb4030a2f46
+      internalID: 1696772973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alien 2 caminando hacia la derecha_6
+      rect:
+        serializedVersion: 2
+        x: 7701
+        y: 6413
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b579d8f054299854db2b48e02f0de817
+      internalID: 693472017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alien 2 caminando hacia la derecha_7
+      rect:
+        serializedVersion: 2
+        x: 7755
+        y: 6413
+        width: 55
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e482ebd803a75014da6dd7068aa94a3f
+      internalID: -2058843793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alien 2 caminando hacia la derecha_8
+      rect:
+        serializedVersion: 2
+        x: 7810
+        y: 4728
+        width: 1656
+        height: 5042
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e1f2dc6560e044aab2e3e1f6a7e042
+      internalID: -1853912119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alien 2 caminando hacia la derecha_9
+      rect:
+        serializedVersion: 2
+        x: 9688
+        y: 4510
+        width: 2027
+        height: 5260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1dc957cdcdf3054c9d86f29d7fed3ac
+      internalID: -303673233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alien 2 caminando hacia la derecha_10
+      rect:
+        serializedVersion: 2
+        x: 11907
+        y: 4510
+        width: 2124
+        height: 5205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d4c84ce6cd53c4db8285f7684bf150
+      internalID: 282726108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alien 2 caminando hacia la derecha_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6249
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e3aeb03e75f1f42ad2c21e16a09b70
+      internalID: 1812299583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alien 2 caminando hacia la derecha_12
+      rect:
+        serializedVersion: 2
+        x: 7646
+        y: 6249
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26222bef4fa5d744c8d6fe83282be91e
+      internalID: -1866777488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alien 2 caminando hacia la derecha_13
+      rect:
+        serializedVersion: 2
+        x: 9415
+        y: 4976
+        width: 108
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1be9e8788bef14f861bbb3f973c94e
+      internalID: 1422648617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alien 2 caminando hacia la derecha_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4536
+        width: 14
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a41fa3b94ebffe4e9bf31b4a35a3f92
+      internalID: -1083984450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Alien 2 caminando hacia la derecha_0: -747800288
+      Alien 2 caminando hacia la derecha_1: 1995372510
+      Alien 2 caminando hacia la derecha_10: 282726108
+      Alien 2 caminando hacia la derecha_11: 1812299583
+      Alien 2 caminando hacia la derecha_12: -1866777488
+      Alien 2 caminando hacia la derecha_13: 1422648617
+      Alien 2 caminando hacia la derecha_14: -1083984450
+      Alien 2 caminando hacia la derecha_2: -1473750275
+      Alien 2 caminando hacia la derecha_3: -926878145
+      Alien 2 caminando hacia la derecha_4: -1527007867
+      Alien 2 caminando hacia la derecha_5: 1696772973
+      Alien 2 caminando hacia la derecha_6: 693472017
+      Alien 2 caminando hacia la derecha_7: -2058843793
+      Alien 2 caminando hacia la derecha_8: -1853912119
+      Alien 2 caminando hacia la derecha_9: -303673233
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
