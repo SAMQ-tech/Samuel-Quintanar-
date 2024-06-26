@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -95,7 +95,301 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Agente caminando hacia la izquierda_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 4793
+        width: 2162
+        height: 5083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea9e03000faf774ca8da5dad3a316b7
+      internalID: 1707916080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agente caminando hacia la izquierda_1
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 8501
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4657a6675fdf9a647a744d03fd888d02
+      internalID: 1189785629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agente caminando hacia la izquierda_2
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 4733
+        width: 2007
+        height: 5164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca27eda499cf20144a6cc1c8912fb86d
+      internalID: 744652440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agente caminando hacia la izquierda_3
+      rect:
+        serializedVersion: 2
+        x: 4478
+        y: 4897
+        width: 1546
+        height: 5013
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3520da97435ea2742af757d88b1bdd26
+      internalID: -819483911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agente caminando hacia la izquierda_4
+      rect:
+        serializedVersion: 2
+        x: 6369
+        y: 4762
+        width: 2163
+        height: 5155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee4b477b54a47c419bc16425d73f49c
+      internalID: 1960652479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agente caminando hacia la izquierda_5
+      rect:
+        serializedVersion: 2
+        x: 8643
+        y: 4745
+        width: 2006
+        height: 5152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5772d1f954ec2f94c9104d86bb95cc16
+      internalID: 473692259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agente caminando hacia la izquierda_6
+      rect:
+        serializedVersion: 2
+        x: 10782
+        y: 4841
+        width: 1550
+        height: 5056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ceed7c7c137b641af026a51e6fedca
+      internalID: -94524749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agente caminando hacia la izquierda_7
+      rect:
+        serializedVersion: 2
+        x: 12507
+        y: 4800
+        width: 1437
+        height: 5097
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c224451af5e1d554e9c5a1db84826895
+      internalID: -1156247667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agente caminando hacia la izquierda_8
+      rect:
+        serializedVersion: 2
+        x: 4426
+        y: 7557
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6794d6d80799e9459d77e76f59e0937
+      internalID: 1832226146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agente caminando hacia la izquierda_9
+      rect:
+        serializedVersion: 2
+        x: 12352
+        y: 6728
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed2963790337a34cb25019a0c120cee
+      internalID: -642211365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agente caminando hacia la izquierda_10
+      rect:
+        serializedVersion: 2
+        x: 6063
+        y: 6130
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a45300961978024e9d0952334c8d94c
+      internalID: -1370768669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agente caminando hacia la izquierda_11
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 5324
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac40624f8b1fbf42af4641aa6b86c50
+      internalID: -1730138640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agente caminando hacia la izquierda_12
+      rect:
+        serializedVersion: 2
+        x: 8521
+        y: 5296
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ec5944479fdea4dbacf950b959010c
+      internalID: -351916896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agente caminando hacia la izquierda_13
+      rect:
+        serializedVersion: 2
+        x: 10887
+        y: 3385
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a538d0ec99de644681192a3204c7873
+      internalID: -1252086400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -106,7 +400,21 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Agente caminando hacia la izquierda_0: 1707916080
+      Agente caminando hacia la izquierda_1: 1189785629
+      Agente caminando hacia la izquierda_10: -1370768669
+      Agente caminando hacia la izquierda_11: -1730138640
+      Agente caminando hacia la izquierda_12: -351916896
+      Agente caminando hacia la izquierda_13: -1252086400
+      Agente caminando hacia la izquierda_2: 744652440
+      Agente caminando hacia la izquierda_3: -819483911
+      Agente caminando hacia la izquierda_4: 1960652479
+      Agente caminando hacia la izquierda_5: 473692259
+      Agente caminando hacia la izquierda_6: -94524749
+      Agente caminando hacia la izquierda_7: -1156247667
+      Agente caminando hacia la izquierda_8: 1832226146
+      Agente caminando hacia la izquierda_9: -642211365
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
